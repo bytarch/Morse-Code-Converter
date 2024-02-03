@@ -21,7 +21,7 @@ This C++ program converts messages to Morse code and vice versa. It provides a u
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/morse-code-converter.git
+git clone https://github.com/jimboo420/Morse-Code-Converter.git
 cd morse-code-converter
 g++ main.cpp -o morse_converter
 ./morse_converter
