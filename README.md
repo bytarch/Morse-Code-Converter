@@ -43,3 +43,34 @@ Usage
 Morse Code Mapping
 
 The Morse code is mapped as follows:
+A .-       N -.
+B -...     O ---
+C -.-.     P .--.
+D -..      Q --.-
+E .        R .-.
+F ..-.     S ...
+G --.      T -
+H ....     U ..-
+I ..       V ...-
+J .---     W .--
+K -.-      X -..-
+L .-..     Y .--  
+M --       Z --..
+
+0 -----
+1 .----
+2 ..---
+3 ...--
+4 ....-
+5 .....
+6 -....
+7 --...
+8 ---..
+9 ----.
+
+Contributions
+
+Feel free to contribute to this project by opening issues or pull requests.
+License
+
+This project is licensed under the MIT License.
